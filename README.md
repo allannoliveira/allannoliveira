@@ -1,9 +1,5 @@
 ### Olá Mundo!
 
-<!--
-**allannoliveira/allannoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 Estou me desenvolvendo para trabalhar com Front-End
 - 🌱 Estou cursando Ciência da Computação
