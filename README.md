@@ -2,7 +2,7 @@
 
 
 - 🔭 Estou me desenvolvendo para trabalhar com Front-End
-- 🌱 Cursando Ciência da Computação - 2/8
+- 🌱 Cursando Ciência da Computação - 3/8
 
 <div align="center">
   <a href="https://github.com/allannoliveira">
