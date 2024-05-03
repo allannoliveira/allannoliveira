@@ -8,4 +8,6 @@
 
 ### 🚀 Minhas Skills
 
-<code> <img height='32' src"https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></code>
+![PYTHON](https://img.shields.io/badge/-PYTHON-333333?style=flat&logo=PYTHON)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
