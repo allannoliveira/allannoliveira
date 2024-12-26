@@ -36,7 +36,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4E0BAQGAFmnNYPd_oQ/company-logo_200_200/0/1630635065104/santa_casa_de_valinhos_logo?e=2147483647&v=beta&t=JwNh8dNBq2qvD7iALuRrdF_7ZfuVQeUd_NbEc0OPOtw"/>](https://www.spacex.com/)
 
-**Técnico de TI** \
+**Analista de T.I** \
 [**Irmandade Santa Casa de Misericórdia de Valinhos**](https://santacasadevalinhos.com.br/) • Full-time \
 Linguagens & Tecnologias: `Python`, `Graphana`, `MySQL` \
 Projetos em destaque: [Monitoramento DATACENTER](<https://allannsilvaoliveira.medium.com/temperature-monitoring-670c6c9ead9f>)
