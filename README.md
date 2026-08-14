@@ -280,7 +280,7 @@ Meu objetivo é me consolidar cada vez mais como **desenvolvedor Backend**, apro
 
 [![Medium](https://img.shields.io/badge/Medium-Allan%20Oliveira-333333?style=flat\&logo=medium\&logoColor=white)](https://allannsilvaoliveira.medium.com/)
 
-[![Gmail](https://img.shields.io/badge/Email-allansilvaoliveira351%40gmail.com-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:allansilvaoliveira351@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-allansilvaoliveira351%40gmail.com-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:allansilvaoliveira@outlook.com)
 
 [![GitHub](https://img.shields.io/github/followers/allannoliveira?label=Follow\&style=social)](https://github.com/allannoliveira)
 
