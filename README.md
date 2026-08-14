@@ -5,12 +5,11 @@
 </p>
 
 <p align="left">
-  Sou apaixonado por tecnologia, desenvolvimento de sistemas e infraestrutura.<br>
-  Atualmente curso <strong>Ciência da Computação</strong> e atuo profissionalmente na área de <strong>T.I</strong>, unindo desenvolvimento de software, suporte, infraestrutura, automação e resolução de problemas reais.
+  Sou profissional de T.I e estudante de <strong>Ciência da Computação</strong>, com experiência em desenvolvimento de software, infraestrutura, automação, bancos de dados e soluções baseadas em Inteligência Artificial.
 </p>
 
 <p align="left">
-  Gosto de entender como as coisas funcionam por baixo dos panos — desde uma aplicação Python conversando com um banco de dados até um servidor, uma rede ou uma infraestrutura de IA rodando localmente. 🚀
+  Minha atuação está principalmente na interseção entre <strong>desenvolvimento Backend, infraestrutura e automação</strong>, buscando transformar problemas reais do dia a dia em soluções tecnológicas.
 </p>
 
 ---
@@ -18,140 +17,255 @@
 ## 🧠 Sobre mim
 
 * 🎓 Cursando **Ciência da Computação**
-* 💻 Atuação profissional como **Analista de T.I**
-* 🐍 Foco em **desenvolvimento Backend com Python**
-* 🌐 Experiência com desenvolvimento Web e APIs
-* 🗄️ Trabalho com bancos de dados relacionais, principalmente **MySQL**
-* 🖥️ Experiência com **Windows, macOS e infraestrutura de TI**
-* 🔧 Automação e resolução de problemas operacionais
-* 🤖 Interesse em **Inteligência Artificial, LLMs e IA local**
-* ☁️ Interesse crescente em **infraestrutura, servidores e DevOps**
-* 🔐 Interesse em segurança da informação e boas práticas de TI
-* 🚀 Sempre criando algum projeto novo para aprender na prática
+* 💻 Atuação profissional em **T.I e desenvolvimento de soluções**
+* 🐍 Desenvolvimento Backend com **Python**
+* 🌐 Desenvolvimento de aplicações Web e APIs
+* 🗄️ Bancos de dados relacionais
+* ⚙️ Automação de processos
+* 🤖 Desenvolvimento e integração de soluções com **Inteligência Artificial**
+* 🖥️ Administração e manutenção de infraestrutura
+* 🐧 Experiência com ambientes **Linux**
+* 🍎 Experiência com **macOS**
+* 🪟 Experiência com **Windows**
+* 📊 Monitoramento de infraestrutura
+* 🔐 Interesse em segurança da informação
+* 🚀 Desenvolvimento de projetos SaaS e soluções internas
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+# 🚀 Tecnologias & Ferramentas
 
-### 🐍 Backend & Desenvolvimento
+### 🐍 Linguagens
 
 ![Python](https://img.shields.io/badge/Python-333333?style=flat\&logo=python\&logoColor=FFD43B)
-![Flask](https://img.shields.io/badge/Flask-333333?style=flat\&logo=flask\&logoColor=FFFFFF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat\&logo=javascript\&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-333333?style=flat\&logo=html5\&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-333333?style=flat\&logo=css3\&logoColor=1572B6)
+![SQL](https://img.shields.io/badge/SQL-333333?style=flat\&logo=mysql\&logoColor=4479A1)
+
+### ⚙️ Backend & Frameworks
+
+![Flask](https://img.shields.io/badge/Flask-333333?style=flat\&logo=flask\&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/Python%20APIs-333333?style=flat\&logo=python\&logoColor=FFD43B)
+
+* APIs REST
+* Automação com Python
+* Processamento e coleta de dados
+* Integração entre sistemas
+* Desenvolvimento de aplicações Web
+* Sistemas orientados a dados
 
 ### 🗄️ Banco de Dados
 
 ![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat\&logo=mysql\&logoColor=4479A1)
-![SQL](https://img.shields.io/badge/SQL-333333?style=flat\&logo=databricks\&logoColor=FFFFFF)
 
-### ⚙️ DevOps, Infraestrutura & Versionamento
+* MySQL
+* SQL
+* Modelagem e manipulação de dados
+* Integração de aplicações com banco de dados
 
+### 🤖 Inteligência Artificial
+
+![OpenAI](https://img.shields.io/badge/AI-333333?style=flat\&logo=openai\&logoColor=FFFFFF)
+![Open Source](https://img.shields.io/badge/Open%20Source%20AI-333333?style=flat\&logo=opensourceinitiative\&logoColor=FFFFFF)
+
+* LLMs
+* IA generativa
+* Modelos open source
+* IA local
+* Integração de IA com aplicações
+* Processamento e análise de informações
+* Automação utilizando IA
+
+### 🖥️ Infraestrutura & DevOps
+
+![Linux](https://img.shields.io/badge/Linux-333333?style=flat\&logo=linux\&logoColor=FCC624)
 ![Git](https://img.shields.io/badge/Git-333333?style=flat\&logo=git\&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat\&logo=github\&logoColor=FFFFFF)
-![Linux](https://img.shields.io/badge/Linux-333333?style=flat\&logo=linux\&logoColor=FCC624)
-![macOS](https://img.shields.io/badge/macOS-333333?style=flat\&logo=apple\&logoColor=FFFFFF)
 
-### 🤖 IA & Automação
-
-![Python](https://img.shields.io/badge/Python%20Automation-333333?style=flat\&logo=python\&logoColor=FFD43B)
-![Open Source AI](https://img.shields.io/badge/AI%20%7C%20Open%20Source-333333?style=flat\&logo=opensourceinitiative\&logoColor=FFFFFF)
-
-Tenho explorado soluções de **IA local**, servidores próprios e ferramentas open source, buscando entender não apenas como utilizar modelos de IA, mas também como **hospedar, integrar e disponibilizar essas soluções dentro de uma infraestrutura própria**.
-
----
-
-## 🛠️ O que gosto de construir
-
-Minha área de interesse está principalmente na interseção entre **desenvolvimento e infraestrutura**.
-
-```text
-┌─────────────────────────────────────────────────────┐
-│                   PROJETOS & TI                     │
-├─────────────────────────────────────────────────────┤
-│                                                     │
-│  🐍 Backend / APIs                                  │
-│       ↓                                             │
-│  🗄️ Banco de Dados                                  │
-│       ↓                                             │
-│  ⚙️ Automação                                       │
-│       ↓                                             │
-│  🖥️ Infraestrutura                                  │
-│       ↓                                             │
-│  🤖 Inteligência Artificial                         │
-│       ↓                                             │
-│  🚀 Soluções para problemas reais                   │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
-
-Alguns dos projetos e estudos que venho desenvolvendo:
-
-* 🧔 **SaaS para barbearias** — plataforma para conectar clientes a barbearias próximas, utilizando geolocalização e agendamento.
-* 🤖 **Servidor de IA local** — experimentos com modelos open source e infraestrutura própria para disponibilizar IA internamente.
-* 🖥️ **Monitoramento de infraestrutura** — acompanhamento de temperatura e condições de equipamentos/ambientes de datacenter.
-* 🔄 **Automação de processos de TI** — scripts e soluções em Python para reduzir tarefas repetitivas.
-* 🌐 **Aplicações Web com Python/Flask** — APIs, sistemas administrativos e aplicações voltadas para problemas reais.
-* 🗄️ **Integração com MySQL** — desenvolvimento de aplicações orientadas a dados.
-* 🔧 **Infraestrutura e suporte** — troubleshooting de redes, computadores, servidores, macOS, Windows e ferramentas corporativas.
-* 🔐 **Segurança da informação** — estudos relacionados a phishing, e-mails maliciosos, boas práticas e conscientização de usuários.
+* Linux
+* Windows
+* macOS
+* Servidores
+* Redes
+* Monitoramento
+* Virtualização e ambientes locais
+* Git/GitHub
+* Troubleshooting de infraestrutura
 
 ---
 
-## 💼 Experiência
+# 💼 Experiência Profissional
 
-### 🖥️ Analista de T.I
+## 🏢 BNG Hub
 
-**Irmandade Santa Casa de Misericórdia de Valinhos** · Full-time
+### Analista de T.I / Tecnologia
 
-Atuação envolvendo **suporte técnico, infraestrutura, monitoramento, sistemas, redes, equipamentos e automação de processos**.
+Atuação envolvendo **infraestrutura, desenvolvimento, automação, suporte e criação de soluções internas**, trabalhando diretamente na identificação de problemas e desenvolvimento de ferramentas para otimizar processos.
 
-Entre as tecnologias e ferramentas utilizadas:
+Minha atuação na BNG Hub vai além do suporte tradicional de T.I, envolvendo também **desenvolvimento de software, integração de IA e criação de soluções automatizadas**.
 
-`Python` `MySQL` `Grafana` `Git` `Windows` `macOS` `Linux`
+### 🤖 Coletor de Licitações com Inteligência Artificial
 
-### 📊 Projeto em destaque — Monitoramento de Datacenter
+Um dos projetos de maior destaque foi o desenvolvimento de uma solução para **coleta, processamento e análise de licitações**, utilizando automação e Inteligência Artificial.
 
-Desenvolvimento de uma solução para **monitoramento de temperatura**, utilizando Python e integração com banco de dados, com visualização das informações através de ferramentas de monitoramento.
+O projeto envolve conceitos como:
+
+* 🔎 Coleta automatizada de informações
+* 🌐 Integração com fontes externas
+* 🐍 Processamento utilizando Python
+* 🗄️ Armazenamento e organização dos dados
+* 🤖 Utilização de Inteligência Artificial
+* 🧠 Processamento e interpretação de informações
+* ⚙️ Automação de tarefas repetitivas
+* 📊 Estruturação das informações coletadas
+
+O objetivo é transformar um processo manual e trabalhoso em um fluxo automatizado capaz de **coletar, processar e organizar grandes volumes de informações**, utilizando IA como parte do processo de análise.
+
+---
+
+## 🧠 Servidor de Inteligência Artificial
+
+Outro projeto de destaque é a construção de uma infraestrutura própria para **execução de Inteligência Artificial localmente**, utilizando soluções open source.
+
+O projeto envolve:
+
+* 🖥️ Configuração de servidor dedicado
+* 🐧 Ambiente Linux
+* 🤖 Execução de modelos de IA localmente
+* 🔌 Integração com aplicações e serviços
+* ⚙️ APIs e automações
+* 🔐 Controle da infraestrutura
+* 📦 Utilização de ferramentas open source
+* 🧠 Experimentação com LLMs
+
+O objetivo é estudar e implementar uma estrutura onde a empresa possa utilizar **Inteligência Artificial de forma controlada e integrada à própria infraestrutura**, reduzindo dependências externas e permitindo novas possibilidades de automação.
+
+---
+
+## 🖥️ Infraestrutura & Suporte
+
+Além do desenvolvimento, atuo diretamente na operação de T.I, trabalhando com:
+
+* 💻 Suporte a usuários
+* 🖥️ Manutenção de computadores
+* 🍎 Administração de equipamentos macOS
+* 🪟 Administração de ambientes Windows
+* 🐧 Ambientes Linux
+* 🌐 Redes e conectividade
+* 🔧 Troubleshooting
+* 🔐 Segurança e boas práticas
+* 📦 Gestão de equipamentos
+* 🖨️ Impressoras e periféricos
+* 📹 Sistemas de monitoramento
+* ☁️ Serviços e sistemas corporativos
+
+---
+
+# 🏥 Experiência Anterior
+
+## 🖥️ Irmandade Santa Casa de Misericórdia de Valinhos
+
+### Analista de T.I
+
+Atuação com suporte, infraestrutura, monitoramento e desenvolvimento de soluções para o ambiente de T.I.
+
+### 📊 Projeto — Monitoramento de Datacenter
+
+Desenvolvimento de uma solução para **monitoramento de temperatura de infraestrutura**, utilizando Python, banco de dados e ferramentas de visualização.
+
+Tecnologias:
+
+`Python` `MySQL` `Grafana`
 
 🔗 [Leia sobre o projeto no Medium](https://allannsilvaoliveira.medium.com/temperature-monitoring-670c6c9ead9f)
 
 ---
 
-## 🚧 Atualmente estudando
+# 🚀 Projetos
 
-```text
-Python
- ├── APIs
- ├── Flask
- ├── Automação
- └── Integrações
+### 🤖 Coletor de Licitações + IA
 
-Infraestrutura
- ├── Linux
- ├── Servidores
- ├── Redes
- └── Monitoramento
+Automação para coleta e processamento de licitações, utilizando Python e Inteligência Artificial.
 
-IA
- ├── LLMs
- ├── Modelos Open Source
- ├── IA Local
- └── Integração de IA com sistemas
-
-Backend
- ├── Arquitetura de aplicações
- ├── Banco de dados
- ├── APIs REST
- └── Sistemas SaaS
-```
-
-Meu objetivo é evoluir cada vez mais como **desenvolvedor Backend**, sem deixar de lado a experiência prática adquirida trabalhando com **infraestrutura e TI**.
+**Tecnologias:**
+`Python` `IA` `APIs` `Web Scraping` `SQL` `Automação`
 
 ---
 
-## 📈 GitHub
+### 🧠 AI Server
+
+Infraestrutura própria para execução e integração de modelos de Inteligência Artificial open source.
+
+**Tecnologias:**
+`Python` `Linux` `LLMs` `Open Source AI` `APIs` `Automação`
+
+---
+
+### 💈 SaaS para Barbearias
+
+Projeto de plataforma para conectar clientes a barbearias próximas, utilizando geolocalização e gerenciamento de agendamentos.
+
+**Tecnologias:**
+`Python` `Flask` `JavaScript` `HTML` `CSS` `MySQL`
+
+---
+
+### 📊 Monitoramento de Datacenter
+
+Sistema de monitoramento de temperatura e infraestrutura.
+
+**Tecnologias:**
+`Python` `MySQL` `Grafana`
+
+---
+
+# 🧩 Minha Stack
+
+```text
+                    ALLAN OLIVEIRA
+                          │
+        ┌─────────────────┼─────────────────┐
+        │                 │                 │
+     BACKEND          INFRAESTRUTURA        IA
+        │                 │                 │
+     Python              Linux             LLMs
+     Flask               Windows           Open Source
+     APIs                macOS             IA Local
+        │                 │                 │
+        └─────────────────┼─────────────────┘
+                          │
+                    AUTOMATIZAÇÃO
+                          │
+                    ┌─────┴─────┐
+                    │           │
+                  SQL         Git
+                    │           │
+                  MySQL      GitHub
+```
+
+---
+
+# 📚 Atualmente estudando
+
+Estou focado em evoluir principalmente nas áreas de:
+
+* 🐍 Python avançado
+* 🏗️ Arquitetura Backend
+* 🌐 APIs e integrações
+* 🗄️ Banco de dados
+* 🐧 Linux e infraestrutura
+* 🤖 Inteligência Artificial
+* 🧠 LLMs e modelos open source
+* ⚙️ Automação
+* 🔐 Segurança da informação
+* ☁️ DevOps e infraestrutura
+
+Meu objetivo é me consolidar cada vez mais como **desenvolvedor Backend**, aproveitando minha experiência prática em T.I e infraestrutura para construir sistemas completos e soluções capazes de resolver problemas reais.
+
+---
+
+# 📈 GitHub
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allannoliveira&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
@@ -160,23 +274,7 @@ Meu objetivo é evoluir cada vez mais como **desenvolvedor Backend**, sem deixar
 
 ---
 
-## 📌 Projetos em destaque
-
-🔹 **Sistemas Backend com Python**
-Aplicações e APIs desenvolvidas para resolver problemas reais.
-
-🔹 **SaaS de Agendamento**
-Projeto voltado para barbearias, com geolocalização, gerenciamento de estabelecimentos e agendamentos.
-
-🔹 **AI Server**
-Estudos e implementação de uma infraestrutura local utilizando soluções de IA open source.
-
-🔹 **Monitoramento de Infraestrutura**
-Soluções para coleta, armazenamento e visualização de informações de infraestrutura.
-
----
-
-## 🌎 Onde me encontrar
+# 🌎 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Allan%20Oliveira-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/allan-silva-oliveira/)
 
@@ -188,16 +286,14 @@ Soluções para coleta, armazenamento e visualização de informações de infra
 
 ---
 
-## ⚡ Fun fact
+# ⚡ Filosofia
 
-> "Se existe uma tarefa repetitiva, provavelmente dá para automatizar." 🤖
+> **Se existe uma tarefa repetitiva, provavelmente dá para automatizar. 🤖**
 
-Quando não estou trabalhando com T.I ou desenvolvendo algum projeto, provavelmente estou tentando descobrir **como fazer alguma coisa funcionar de um jeito que eu ainda não conhecia.** 😂
-
----
+Gosto de aprender colocando a mão na massa: **construir, testar, quebrar, corrigir e entender como as coisas funcionam por baixo dos panos.**
 
 <p align="center">
-  <strong>💻 Code • 🛠️ Infrastructure • 🤖 AI • 🚀 Innovation</strong>
+  <strong>💻 Backend • 🖥️ Infrastructure • 🤖 AI • ⚙️ Automation • 🚀 Innovation</strong>
 </p>
 
 <p align="center">
